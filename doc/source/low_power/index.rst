@@ -31,7 +31,7 @@
 
 连接参数1： connection interval 12.5ms, latency 5
 
-连接参数1： connection interval 95ms, latency 5
+连接参数2： connection interval 95ms, latency 5
 
 按键功耗参数为1s内触发2个键值，1s内的平均功耗
 
